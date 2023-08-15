@@ -1,2 +1,2 @@
 # DataVisualizations
-Python code show the various graphs that can be plotted.
+Python code shows the various graphs that can be plotted.
